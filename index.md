@@ -1,4 +1,6 @@
----### [Web Serch Tool Bar (Web搜索工具栏（条））](https://github.com/ELE-Clouds/WSTB-2016)
+---
+
+### [Web Serch Tool Bar (Web搜索工具栏（条））](https://github.com/ELE-Clouds/WSTB-2016)
 
 ![WSTB](https://github.com/ELE-Clouds/WSTB-2016/blob/master/images/wstb-2016.png)
 
@@ -10,6 +12,6 @@
 
 ![RCL_VST](https://github.com/ELE-Clouds/CircuitDesignTools/blob/master/RCL_SelectionTool/image/EIA_SRV_IMAGE.png?raw=true)
 
-当前工具主要是根据相关标准计算并显示出匹配当前值的标准值，方便大家选型的时候提高准确度。本工具选用标准为EIA 的 E 系列标准。封装选型主要根据当前确定的电参数加上允许波动范围，与各封装对应功耗进行对比，然后选择。 
+当前工具主要是根据相关标准计算并显示出匹配当前值的标准值，方便大家选型的时候提高准确度。<br/>本工具选用标准为EIA 的 E 系列标准。<br/>封装选型主要根据当前确定的电参数加上允许波动范围，与各封装对应功耗进行对比，然后选择。 
 
 ---
