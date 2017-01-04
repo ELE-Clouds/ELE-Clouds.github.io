@@ -1,8 +1,6 @@
-title: Ele-clouds.GitHub.io
-description: dddd
-google_analytics: 
+title: 姬羽玲珑
+google_analytics: 十年磨一剑！欢迎来到我的剑炉——品剑
 show_downloads: true
 theme: jekyll-theme-minimal
-
 gems:
   - jekyll-mentions
