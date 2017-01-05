@@ -4,7 +4,7 @@
 
 > 输入你想要搜索的内容，然后回车，即可在所选的搜索引擎中找到你所搜索的结果。<br/>
 
-<table border="0" cellpadding=1%>
+<table>
 <tr>
 <td width=60%>
 <img src="https://github.com/ELE-Clouds/WSTB-2016/blob/master/images/wstb-2016.png"  alt="wstb" />
@@ -29,7 +29,7 @@
 
 > 输入一个电阻值，然后点击【开始计算】按钮，即可正文黑色区域显示推荐的标准电阻值，以及与其相邻的两个值。<br/>
 
-<table border="0" cellpadding=1%>
+<table>
 <tr>
 <td width=60%>
 <img src="https://github.com/ELE-Clouds/CircuitDesignTools/blob/master/RCL_SelectionTool/image/EIA_SRV_IMAGE.png"  alt="RCL_VST" />
