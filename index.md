@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/ELE-Clouds/WSTB-2016/blob/master/images/wstb-2016.png"  alt="wstb" />
+<img src="/WSTB-2016/blob/master/images/wstb-2016.png"  alt="wstb" />
 </td>
 <td>
 <ul>
