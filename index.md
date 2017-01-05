@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td>
+<td width=60%>
 <img src="https://github.com/ELE-Clouds/CircuitDesignTools/blob/master/RCL_SelectionTool/image/EIA_SRV_IMAGE.png"  alt="RCL_VST" />
 </td>
 <td>
