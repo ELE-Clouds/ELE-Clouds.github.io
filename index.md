@@ -6,10 +6,10 @@
 
 <table>
 <tr>
-<td width=60%>
+<td>
 <img src="https://github.com/ELE-Clouds/WSTB-2016/blob/master/images/wstb-2016.png"  alt="wstb" />
 </td>
-<td width=40%>
+<td>
 <ul>
 <li>作品名称：快捷搜索工具栏 2016</li>
 <li>作品版本：0.01</li>
