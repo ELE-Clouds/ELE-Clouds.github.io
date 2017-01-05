@@ -31,10 +31,10 @@
 
 <table>
 <tr>
-<td width=60%>
+<td>
 <img src="https://github.com/ELE-Clouds/CircuitDesignTools/blob/master/RCL_SelectionTool/image/EIA_SRV_IMAGE.png"  alt="RCL_VST" />
 </td>
-<td width=40%>
+<td>
 <ul>
 <li>作品名称：标准阻值计算器</li>
 <li>作品版本：0.01</li>
